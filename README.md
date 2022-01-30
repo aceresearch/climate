@@ -1,4 +1,4 @@
-# Fighting Climate Change
+# climate
 
 ## Papers
 - [A Bioengineering Roadmap for Negative Emissions Technologies (MIT Media Lab)](https://dam-prod.media.mit.edu/x/2021/02/14/Sclarsic-MS-21.pdf)
