@@ -1,5 +1,8 @@
 # Climate
 
+## Social science research: Policy 
+- [Fossil Fuel Industry stalling action; IPCC report](https://www.theguardian.com/environment/2022/apr/05/ipcc-report-scientists-climate-crisis-fossil-fuels)
+
 ## Pareto principle
 - Industrial emissions contribute 33% of global CO2 emissions.
 - 50% of industrial emissions come from producing the following four products
