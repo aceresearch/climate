@@ -8,6 +8,10 @@
     3. ammonia
     4. ethylene
 
+## Prong 1: Mitigation (Reducing CO2 in the atmosphere)
+
+## Prong 2: Adaptation (Protecting ourselves from the effects of CO2)
+
 ## References
 - MIT Climate ([climate.mit.edu](https://climate.mit.edu))
     - [What can be done about climate change?](https://climate.mit.edu/what-can-be-done-about-climate-change)
