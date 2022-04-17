@@ -1,5 +1,13 @@
 # Climate
 
+## Pareto principle
+- Industrial emissions contribute 33% of global CO2 emissions.
+- 50% of industrial emissions come from producing the following four products
+    1. concrete
+    2. steel
+    3. ammonia
+    4. ethylene
+
 ## References
 - MIT Climate ([climate.mit.edu](https://climate.mit.edu))
     - [What can be done about climate change?](https://climate.mit.edu/what-can-be-done-about-climate-change)
