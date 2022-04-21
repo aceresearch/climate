@@ -1,5 +1,10 @@
 # Climate
 
+## Things to Read
+- Solar panels
+    - Organic
+    - Inorganic
+
 ## Social science research: Policy 
 - [Fossil Fuel Industry stalling action; IPCC report](https://www.theguardian.com/environment/2022/apr/05/ipcc-report-scientists-climate-crisis-fossil-fuels)
 
