@@ -3,21 +3,46 @@
 ## Social science research: Policy 
 - [Fossil Fuel Industry stalling action; IPCC report](https://www.theguardian.com/environment/2022/apr/05/ipcc-report-scientists-climate-crisis-fossil-fuels)
 
+## Incentive structures
+- [First Movers Coalition](https://www.weforum.org/first-movers-coalition)
+  - If there's a ready market, inventors will make it
+     - See: Operation Warp Speed
+  - Products
+    - Green Cement
+    - Green Steel
+
+## Climate
+- [National Climate Assessment Report](https://nca2018.globalchange.gov/)
+
+## Agriculture
+- Self-fertilizing crops
+- Climate-resilient crops
+
 ## Pareto principle
 - Industrial emissions contribute 33% of global CO2 emissions.
 - 50% of industrial emissions come from producing the following four products
     1. concrete
     2. steel
     3. ammonia
+        - Haber-Bosch process
     4. ethylene
+        - steam-cracking
+- Agriculture is responsible for 26% of GHG
 
 ## Fermi estimates
+- eliminating methane emissinos will prevent 0.2ºC rise
 - humanity has manufactured over **8 billion metric tons (1000 kg)** of plastic (2020)
 - the next 8 billion metric tons will be produced in only **15 years**
+- 500 billion dollars invested in climate would be effective
+- 6 banks will invest 7 billion dollars
+- BlackRock will invest 1 billion dollars
+- 4.4 bn metric tons of cement are produced annually
+    - 1 ton of cement produces 1 ton of CO2
 
 ## Prong 1: Mitigation (Reducing CO2 in the atmosphere)
 
 ## Prong 2: Adaptation (Protecting ourselves from the effects of CO2)
+- Resilient energy infrastructure
 
 ## References
 - MIT Climate ([climate.mit.edu](https://climate.mit.edu))
