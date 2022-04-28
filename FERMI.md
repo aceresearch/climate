@@ -6,6 +6,7 @@
 - T: trillion
 - B: billion
 - MM: million
+- ha (hectare): 10000 square meters
 
 ## Numbers
 
@@ -20,7 +21,8 @@
 - 1000 cubic feet of natural gas produces 99 kWh.
 
 ### Forests
-- As of 2008, 1.3B hectares of tropical forest are deforested annually.
+- We lose around 6 million hectares of forest every year.
+- We want to plant approximately 1000 trees in every hectare.
 
 ## Notes
 * Note that IEA uses &ldquo;ton&rdquo; to mean metric ton.
