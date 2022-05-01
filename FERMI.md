@@ -31,9 +31,14 @@
 - The Earth originally had 6B ha of forest; we are now at 4B ha.
 
 ### Energy use
-- The average annual electricity consumption of an American is 11000 kWh.
-- A desktop computer uses 600 kWh of energy a year.
-  - 5% of the energy used by an American.
+- The total amount of power consumed by America is 28000 TWh.
+- The US produced and consumed 4116 TWh of electricity.
+- The 10500 TWh of energy went into the production of electricity.
+- The average annual electricity consumption of an American is 11000 KWh.
+- A desktop computer uses 600 KWh of energy a year.
+  - This is 5% of the energy used by an American.
+- In 2019, wind power generated 340 TWh of electricity.
+
 
 ## Notes
 * Note that IEA uses &ldquo;ton&rdquo; to mean metric ton.
