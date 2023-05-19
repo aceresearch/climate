@@ -1,0 +1,122 @@
+@import "fonts.scss";
+
+:root {
+    font-size: 11pt;
+    font-family: $sans;
+}
+
+html, body {
+    color: #333;
+}
+
+figcaption {
+    text-align: center;
+    color: #999;
+}
+
+a {
+    color: #222;
+    padding: 0px 2px;
+}
+
+a:hover {
+    color: white;
+    background: #555;
+}
+
+deckgo-highlight-code {
+    font-size: 11pt;
+    box-shadow: none;
+    --deckgo-highlight-code-token-comment: #a1a1a1;
+    --deckgo-highlight-code-carbon-overflow: scroll;
+    --deckgo-highlight-code-white-space: pre;
+    --deckgo-highlight-code-carbon-header-button-height: 8px;
+    --deckgo-highlight-code-carbon-header-button-width: 8px;
+    --deckgo-highlight-code-carbon-header-padding: 0px 1rem;
+}
+
+code {
+    background-color: #fdf6e3;
+    color: #657b83;
+    border-radius: 5px;
+    padding: 1px 3px 3px 3px;
+    font-family: $mono !important;
+}
+
+.anchor {
+    text-decoration: none;
+    color: lightblue;
+}
+
+.anchor:hover {
+    background-color: transparent;
+    color: lightskyblue;
+}
+
+.gatsby-highlight pre[class*="language-"].line-numbers {
+    padding-left: 2.8em;
+}
+
+.gatsby-highlight {
+    background-color: #fdf6e3;
+    border-radius: 0.3em;
+    margin: 0.5em 0;
+    padding: 0.5em 1em;
+    overflow: auto;
+}
+
+.gatsby-highlight pre[class*="language-"].line-numbers {
+    padding: 0;
+    padding-left: 2.8em;
+    overflow: initial;
+}
+
+.App-editor {
+    overflow: auto;
+    margin-top: 50px !important;
+    margin: 0 auto;
+}
+
+textarea {
+    line-height: 1.5 !important;
+}
+
+.w-tc-editor {
+    --color-fg-default: #24292f;
+    --color-canvas-subtle: #fdf6e3;
+    --color-prettylights-syntax-comment: #6e7781;
+    --color-prettylights-syntax-entity-tag: #116329;
+    --color-prettylights-syntax-entity: #8250df;
+    --color-prettylights-syntax-sublimelinter-gutter-mark: #8c959f;
+    --color-prettylights-syntax-constant: #0550ae;
+    --color-prettylights-syntax-string: #0a3069;
+    --color-prettylights-syntax-keyword: #cf222e;
+    --color-prettylights-syntax-markup-bold: #24292f;
+}
+
+.hidden {
+    display: hidden;
+}
+
+.editor-box {
+    position: relative;
+}
+
+.cm-scroller {
+    border: 1px solid lightgray;
+}
+
+#btnRun {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+    height: 100%;
+
+    border: none;
+    background-color: none;
+}
+
+div:has(> code) {
+    display: inline;
+}
