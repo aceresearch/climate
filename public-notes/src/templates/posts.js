@@ -31,7 +31,7 @@ const Footnote = ({ id }) => {
   const index = findIndex(id)
 
   if (index > 0) {
-    return <sup>{findIndex(id)}</sup>
+    return <sup className={styles.footnoteItem}>{findIndex(id)}</sup>
   }
 
   return <></>
@@ -59,7 +59,7 @@ export default function PageTemplate({ data: { mdx }, children }) {
             <div className={styles.footnotes}>
               {mdx.frontmatter.footnotes?.map((footnote, idx) => (
                 <p>
-                  <sup>{idx + 1}</sup>
+                  <sup className={styles.footnoteItem}>{idx + 1}</sup>
                   <span dangerouslySetInnerHTML={{ __html: footnote.html }} />
                 </p>
               ))}

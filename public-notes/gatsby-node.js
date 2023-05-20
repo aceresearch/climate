@@ -21,10 +21,19 @@ exports.createPages = async function ({ actions, graphql }) {
   data.allMdx.nodes.forEach(node => {
     const slug = node.fields.slug
     console.log(slug)
-    actions.createPage({
-      path: slug,
-      component: `${postTemplate}?__contentFilePath=${node.internal.contentFilePath}`,
-      context: { id: node.id },
-    })
+
+    if (slug == "/index") {
+      actions.createPage({
+        path: "/",
+        component: `${postTemplate}?__contentFilePath=${node.internal.contentFilePath}`,
+        context: { id: node.id },
+      })
+    } else {
+      actions.createPage({
+        path: slug,
+        component: `${postTemplate}?__contentFilePath=${node.internal.contentFilePath}`,
+        context: { id: node.id },
+      })
+    }
   })
 }
